@@ -1,4 +1,5 @@
 # Contrôle d'un jeu de voiture avec des réseaux de neurones
+
 Ce projet implémente un modèle de réseau de neurones pour contrôler un jeu de voiture en utilisant Python et la bibliothèque Pygame. Le modèle est entraîné sur les données collectées à partir du jeu, puis est utilisé pour prendre des décisions pour contrôler la voiture dans le jeu.
 
 # Installation :
